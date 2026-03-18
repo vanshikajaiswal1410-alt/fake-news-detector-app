@@ -1,1 +1,3 @@
-# fake-news-detector-app
+## 📷 Screenshots
+
+![App Screenshot](output.jpeg)
